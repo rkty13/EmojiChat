@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EmojiChat</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Emoji Chat</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="username_field">Username</string>
+    <string name="password_field">Password</string>
+    <string name="passwordconf_field">Confirm Password</string>
+    <string name="email_field">Email</string>
+
+</resources>
